@@ -1,3 +1,9 @@
+# This Repo is essentially replaced by fnirs-preproc-interface
+
+This repo is not used/updated anymore. We made a custom tool building on homer3 functions which includes both a custom GUI (for manual artifact detection) and scripted pipeline. See here
+
+https://github.com/earlychildcog/fnirs-preproc-interface
+
 # Preprocess fnirs data with homer3 without GUI
 
 Script collection intended to faciliate preprossing nirs data (in snirf files) with homer3 functions without the use of homer3 gui. Current implementation is in fetal state and limited to our specific pipeline/setting, though it can be modified to use another pipeline.
